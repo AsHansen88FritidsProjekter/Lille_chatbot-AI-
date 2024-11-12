@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "HEy",
+      "answer": "Hey"
+    },
+    {
+      "question": "exit()",
+      "answer": ""
+    },
+    {
+      "question": "How are you doing?",
+      "answer": "Fine. thank you"
+    },
+    {
+      "question": "Whats up?",
+      "answer": "its going fine"
+    },
+    {
+      "question": "skip",
+      "answer": "skip\u00e5"
+    },
+    {
+      "question": "Can you say anythong else than hey",
+      "answer": "Hello"
+    },
+    {
+      "question": "hey",
+      "answer": "Hello"
+    },
+    {
+      "question": "Nice. ",
+      "answer": "THank you :D"
+    }
+  ]
+}
